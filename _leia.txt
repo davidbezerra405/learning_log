@@ -1,0 +1,9 @@
+para instalar uma versão anterior do Django:
+1 - crie um arquivo "requeriments.txt"
+2 - conteúdo do arquivo: Django~=1.8.4 
+3 - salve o arquivo
+4 - instalação do Django: pip install -r requeriments.txt
+
+obs: pip list = lista lista de pacotes e versões instalados
+
+
